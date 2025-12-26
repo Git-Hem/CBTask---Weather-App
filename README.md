@@ -5,7 +5,6 @@ A modern Android weather application built with **Jetpack Compose**, following *
 ![Android](https://img.shields.io/badge/Platform-Android-green.svg)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)
 ![MinSDK](https://img.shields.io/badge/MinSDK-24-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
 
 ## 📱 Screenshots
 
